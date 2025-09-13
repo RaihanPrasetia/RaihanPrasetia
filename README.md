@@ -41,6 +41,6 @@ Saya berfokus pada pembangunan sistem yang dinamis dan terukur, dengan spesialis
 
 Mari saling bertukar ide atau berkolaborasi. Anda dapat menemukan saya di:
 
-- **Website:** [tenkuryu.com]
-- **LinkedIn:** [https://www.linkedin.com/in/raihan-prasetia]
+- **Website:** [tenkuryu](https://tenkuryu.com/)
+- **LinkedIn:** [[linkid](https://www.linkedin.com/in/raihan-prasetia)]
 - **Email:** [raihanprasetia86@]
