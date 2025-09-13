@@ -20,14 +20,16 @@
 - `TypeScript`
 - `HTML`
 - `CSS`
+- `PHP`
 
 **Frameworks & Libraries:**
 - `React.js` / `Next.js` / `Astro.js`
 - `Node.js` / `Express.js`
-- `Django` / `Flask`
+- `Django` / `Flask` / `Fast Api`
+- `Strapi`
 
 **Tools & Platform:**
-- `Git` / `GitHub` `Gitlab`
+- `Git` / `GitHub` / `Gitlab`
 - `Container` / `Docker`
 
 ---
