@@ -14,26 +14,21 @@
 
 ### ✨ Apa yang Saya Kuasai
 
-Saya berfokus pada pembangunan sistem yang dinamis dan terukur, dengan spesialisasi di... (contoh: **Full-Stack Development, Cloud Computing, dsb.**).
-
 **Bahasa:**
 - `JavaScript`
 - `Python`
 - `TypeScript`
-- ...
+- `HTML`
+- `CSS`
 
 **Frameworks & Libraries:**
-- `React.js` / `Next.js`
+- `React.js` / `Next.js` / `Astro.js`
 - `Node.js` / `Express.js`
 - `Django` / `Flask`
-- ...
 
 **Tools & Platform:**
-- `Git` / `GitHub`
-- `Vercel`
-- `Docker`
-- `AWS` / `Google Cloud`
-- ...
+- `Git` / `GitHub` `Gitlab`
+- `Container` / `Docker`
 
 ---
 
@@ -43,4 +38,4 @@ Mari saling bertukar ide atau berkolaborasi. Anda dapat menemukan saya di:
 
 - **Website:** [tenkuryu.com](https://tenkuryu.com/)
 - **LinkedIn:** [RaihanPrasetia](https://www.linkedin.com/in/raihan-prasetia)
-- **Email:** [raihanprasetia86@gmail.com]
+- **Email:** raihanprasetia86@gmail.com
